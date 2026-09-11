@@ -65,7 +65,7 @@ int main()
     Library<int> book1(101, "Object oriented programing", "Robert Lafore");
     Library<string> book2("CS102", "Database Management System", "Korth");
 
-    cout << "====== KIBRARY MANAGEMENT SYSTEM ======\n";
+    cout << "====== LIBRARY MANAGEMENT SYSTEM ======\n";
 
     cout << "\nBook 1 Details:";
     book1.display();
